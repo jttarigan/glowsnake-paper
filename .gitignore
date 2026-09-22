@@ -1,0 +1,18 @@
+# Xcode user state & build artifacts
+xcuserdata/
+*.xcuserstate
+DerivedData/
+.DS_Store
+
+# Paper tooling artifacts (large binaries / rebuildable)
+paper/harness/.build/
+paper/tools/
+
+# Android build artifacts
+android/.gradle/
+android/**/build/
+android/local.properties
+android/.kotlin/
+
+# Golden traces (regenerate: paper/harness/.build/harness trace <out> <seed>)
+paper/data/golden_trace_*.txt
