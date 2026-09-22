@@ -97,8 +97,8 @@ Please cite the article (citation to be added on publication).
 PolyForm Noncommercial License 1.0.0 (see `LICENSE.txt`). Anyone may
 read, build, run, modify and share this code for noncommercial
 purposes, which includes reviewing and replicating the article's
-results. Commercial use is not licensed: the game is being prepared for
-commercial release by the author.
+results. Commercial use is not licensed; the author retains all
+commercial rights.
 
 Required Notice: Copyright Jos Timanta Tarigan (2026), Universitas
 Sumatera Utara.
